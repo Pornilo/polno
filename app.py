@@ -25,7 +25,7 @@ def communicate():
     st.session_state["user_input"] = ""
 
 st.title ("Desarrollador AI")
-st.image()
+st.image("holaaaa.png", width=100)
 st.write ("Utilizando la API chatGPT, este chatbot ofrece capacidades conversacionales avanzadas.")
 
 
